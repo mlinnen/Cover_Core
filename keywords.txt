@@ -1,0 +1,10 @@
+CoverStatePowerUp   KEYWORD1
+CoverStateUnknown   KEYWORD1
+CoverStateOpen  KEYWORD1
+CoverStateOpening   KEYWORD1
+CoverStateClosed    KEYWORD1
+CoverStateClosing   KEYWORD1
+CoverCommandUnknown KEYWORD1
+CoverCommandOpen    KEYWORD1
+CoverCommandClose   KEYWORD1
+CoverCommandStop    KEYWORD1
